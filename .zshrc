@@ -1,7 +1,5 @@
 source /usr/local/bin/virtualenvwrapper.sh
 export WORKON_HOME="/Users/jan/.virtualenvs"
-export PROJECT_HOME="~/Library/Mobile\ Documents/com\~apple\~CloudDocs/Arbeit/Softpark/dev"
-
 export PATH="$HOME/.pyenv/bin:$PATH"
 export PATH="/usr/local/bin:$PATH"
 
