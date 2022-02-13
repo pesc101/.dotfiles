@@ -31,3 +31,6 @@ alias apply-gitignore="git ls-files -ci --exclude-standard -z | xargs -0 git rm 
 if command -v pyenv 1>/dev/null 2>&1
   pyenv init - | source
 end
+
+alias star "starship init fish | source"
+
