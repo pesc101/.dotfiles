@@ -33,4 +33,4 @@ if command -v pyenv 1>/dev/null 2>&1
 end
 
 alias star "starship init fish | source"
-
+set _CONDA_ROOT "/Users/jan/miniconda3"
