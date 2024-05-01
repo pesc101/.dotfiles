@@ -24,14 +24,8 @@ git clone https://github.com/pesc101/.dotfiles.git ~/.dotfiles
 
 ```zsh
 ln -s ~/.dotfiles/.zshrc ~/.zshrc
-ln -s ~/.dotfiles/.gitconfig ~/.gitconfig
+# ln -s ~/.dotfiles/.gitconfig ~/.gitconfig
 ln -s ~/.dotfiles/.gitignore ~/.gitignore
-ln -s ~/.dotfiles/.config.fish/config.fish ~/.config/fish/config.fish
-ln -s ~/.dotfiles/.config/fish/functions/peco_change_directory.fish ~/.config/fish/functions/peco_change_directory.fish
-ln -s ~/.dotfiles/.config/fish/functions/peco_select_history.fish ~/.config/fish/functions/peco_select_history.fish
-ln -s ~/.dotfiles/.config/fish/functions/fish_user_key_bindings.fish ~/.config/fish/functions/fish_user_key_bindings.fish
-
-
 
 ```
 
@@ -47,3 +41,16 @@ brew bundle --file ~/.dotfiles/Brewfile
 ```
 
 
+# Useful Apps
+- AltTab
+- Alfred
+- Rectangle
+- ITerm 2
+- Super Agent
+- Vimari
+- Docker
+- VSCode
+- PyCharm
+- RStudio
+- Postman
+- Obsidian

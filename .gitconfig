@@ -17,3 +17,7 @@
 
 [github]
 	user = pesc101
+[core]
+	autocrlf = input
+[credential]
+	helper = store
